@@ -1,0 +1,10 @@
+#!/bin/bash
+javac RoutingMapTree.java
+javac Exchange.java
+javac ExchangeLinkedList.java
+javac LinkedList.java
+javac MySet.java
+javac MobilePhone.java
+javac MobilePhoneSet.java
+javac checker.java
+Java checker
